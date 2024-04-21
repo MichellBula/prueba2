@@ -14,7 +14,7 @@ public class Prueba2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        String nombre="epaa";
+        String nombre="mich";
  
         System.out.println("Bienvenido "+nombre);
     }
